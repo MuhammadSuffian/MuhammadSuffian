@@ -46,17 +46,6 @@ I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Found
 
 ---
 
-## 🛠 Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 **AI Chatbot (Android)** | Multi-LLM chatbot with dynamic UI, real-time conversation flow, and local LLM support via Ollama | Kotlin, Gemini Flash, Groq, Ollama, Ngrok |
-| 📚 **AI Study Buddy** | AI-powered study assistant for students and teachers — Reimagine WebHackathon 2025 | Web, LLM APIs |
-| 🧑‍💼 **AI HR Assistant** | Automated HR query handling and employee support — Code Fusion Hackathon 2025 | Web, LLM APIs |
-| 🏃 **Fitness Tracker** | Mobile fitness app with auth, real-time leaderboard, and performance analytics — Comsats Visio Spark 2024 | Android |
-
----
-
 ## 🧰 Skills & Tools
 
 **Languages**
