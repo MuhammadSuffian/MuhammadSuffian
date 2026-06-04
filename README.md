@@ -1,30 +1,118 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Muhammad Suffian </h1>
-<h3 align="center"> A passionate frontend and Backend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsuffian&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsuffian" /> </p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0f6e56,1d9e75&height=200&section=header&text=Muhammad%20Suffian%20Tafoor&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=ML%20%2F%20AI%20Engineer%20%E2%80%A2%20Android%20Developer%20%E2%80%A2%20Published%20Researcher&descAlignY=58&descSize=15)
 
-- 🌱 I’m currently learning  **Android developement,Flutter,CyberSecurity,Data analytics **
+<img src="https://komarev.com/ghpvc/?username=muhammadsuffian&label=Profile%20views&color=1d9e75&style=flat" alt="Profile views" />
 
-- 📫 How to reach me **muhammad.suffian.5959@gmail.com **
+</div>
 
-<h3 align="left"> Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad suffian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad suffian" height="30" width="40" /></a>
-<a href="https://fb.com/malik suffian awan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malik suffian awan" height="30" width="40" /></a>
-<a href="https://instagram.com/m.suffian_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.suffian_2003" height="30" width="40" /></a>
+---
+
+## 👋 About Me
+
+I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Foundation University Islamabad, with a strong foundation in **Machine Learning, Deep Learning, LLMs, NLP, and Android Development**.
+
+- 🔬 Published researcher in phishing detection using NLP & behavioral modeling
+- 🤖 Building intelligent systems at the intersection of **LLMs and decision support**
+- 📱 2+ years of Android development experience — apps with **1M+ downloads**
+- 🏫 3 years as a Teaching Assistant (OOP & DSA Labs)
+- 🎓 Actively pursuing **MS/PhD research opportunities** in AI abroad
+- 📫 Reach me at **muhammad.suffian.5959@gmail.com**
+
+---
+
+## 🔬 Flagship Project — IESA
+
+**Intelligent Energy Scenario Analysis** · [Live on Streamlit](https://your-iesa-link.streamlit.app)
+
+> An AI-driven decision support system for energy planning and scenario analysis.
+
+- Implements **WisRule** — a cognitive association rule mining algorithm for energy pattern detection
+- Integrates contextually locked **LLMs** and **regression models** for forecasting and insights
+- Built a **32-bit prime-based custom hashing algorithm** for efficient data handling
+- Interactive **Streamlit UI** with Supabase/PostgREST backend for real-time data input and visualization
+
+`Python` `Scikit-learn` `Transformers` `WisRule` `Streamlit` `Supabase` `MySQL`
+
+---
+
+## 📄 Research & Publications
+
+**Predicting Phishing Attacks Using NLP and User Behavioral Indicators** · *December 2025*
+> Hybrid ML framework combining NLP-based content analysis with behavioral data (link-click frequency, response time, prior exposure) for proactive phishing detection, including zero-day attacks.
+
+**Wisdom Mining in Energy Decision Support** · *In Progress*
+> AI-driven DSS using the WisRule wisdom mining algorithm for adaptive, context-aware energy usage optimization — evaluated against traditional associative rule mining approaches.
+
+---
+
+## 🛠 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 **AI Chatbot (Android)** | Multi-LLM chatbot with dynamic UI, real-time conversation flow, and local LLM support via Ollama | Kotlin, Gemini Flash, Groq, Ollama, Ngrok |
+| 📚 **AI Study Buddy** | AI-powered study assistant for students and teachers — Reimagine WebHackathon 2025 | Web, LLM APIs |
+| 🧑‍💼 **AI HR Assistant** | Automated HR query handling and employee support — Code Fusion Hackathon 2025 | Web, LLM APIs |
+| 🏃 **Fitness Tracker** | Mobile fitness app with auth, real-time leaderboard, and performance analytics — Comsats Visio Spark 2024 | Android |
+
+---
+
+## 🧰 Skills & Tools
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-085041?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-085041?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-085041?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-085041?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-085041?style=flat&logo=mysql&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow%20Lite-0F6E56?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0F6E56?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0F6E56?style=flat&logo=huggingface&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs%20%2F%20NLP-0F6E56?style=flat&logoColor=white)
+
+**Tools & Platforms**
+
+![Android](https://img.shields.io/badge/Android%20SDK-1D9E75?style=flat&logo=android&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1D9E75?style=flat&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1D9E75?style=flat&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1D9E75?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-1D9E75?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1D9E75?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 🏆 Honors & Awards
+
+- 🥇 **Gold Medal** — Highest CGPA / First Position, BSSE Fall 2021 Batch, Foundation University Islamabad (2025)
+- 🏅 **Distinction Certificate** — Outstanding Academic Performance, Foundation University Islamabad (2025)
+- 🎓 **Merit-Based Scholarship Holder**, Foundation University Islamabad
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsuffian&show_icons=true&theme=default&hide_border=true&title_color=0f6e56&icon_color=1d9e75" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsuffian&layout=compact&hide_border=true&title_color=0f6e56" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsuffian&hide_border=true&ring=1d9e75&fire=0f6e56&currStreakLabel=0f6e56" alt="GitHub Streak" />
 </p>
 
-<h3 align="left"> Languages and Tools: </h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.dartlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a> </p>
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🤝 Connect
 
+<p align="left">
+<a href="https://linkedin.com/in/muhammad-suffian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:muhammad.suffian.5959@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/m.suffian_2003" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+</p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsuffian&show_icons=true&locale=en&layout=compact" alt="muhammadsuffian" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsuffian&show_icons=true&locale=en" alt="muhammadsuffian" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsuffian&" alt="muhammadsuffian" /></p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0f6e56,1d9e75&height=100&section=footer)
