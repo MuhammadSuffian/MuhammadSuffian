@@ -84,15 +84,14 @@ I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Found
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsuffian&show_icons=true&theme=default&hide_border=true&title_color=0f6e56&icon_color=1d9e75" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsuffian&layout=compact&hide_border=true&title_color=0f6e56" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsuffian&hide_border=true&ring=1d9e75&fire=0f6e56&currStreakLabel=0f6e56" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsuffian&show_icons=true&hide_border=true&title_color=0f6e56&icon_color=1d9e75&bg_color=00000000&text_color=ffffff" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsuffian&layout=compact&hide_border=true&title_color=0f6e56&bg_color=00000000&text_color=ffffff" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=muhammadsuffian&hide_border=true&ring=1d9e75&fire=0f6e56&currStreakLabel=0f6e56&background=00000000&dates=ffffff&sideLabels=ffffff&sideNums=ffffff&stroke=1d9e75" alt="GitHub Streak" />
+</div>
 
 ---
 
