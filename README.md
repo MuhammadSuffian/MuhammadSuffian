@@ -12,16 +12,16 @@
 
 I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Foundation University Islamabad, with a strong foundation in **Machine Learning, Deep Learning, LLMs, NLP, and Android Development**.
 
-- 🔬 Published researcher in phishing detection using NLP & behavioral modeling
-- 🤖 Building intelligent systems at the intersection of **LLMs and decision support**
-- 📱 2+ years of Android development experience — apps with **1M+ downloads**
-- 🏫 3 years as a Teaching Assistant (OOP & DSA Labs)
-- 🎓 Actively pursuing **MS/PhD research opportunities** in AI abroad
-- 📫 Reach me at **muhammad.suffian.5959@gmail.com**
+-  Published researcher in phishing detection using NLP & behavioral modeling
+-  Building intelligent systems at the intersection of **LLMs and decision support**
+-  2+ years of Android development experience — apps with **1M+ downloads**
+-  3 years as a Teaching Assistant (OOP & DSA Labs)
+-  Actively pursuing **MS/PhD research opportunities** in AI abroad
+-  Reach me at **muhammad.suffian.5959@gmail.com**
 
 ---
 
-## 🔬 Flagship Project — IESA
+##  Flagship Project — IESA
 
 **Intelligent Energy Scenario Analysis** · [Live on Streamlit](https://your-iesa-link.streamlit.app)
 
@@ -36,7 +36,7 @@ I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Found
 
 ---
 
-## 📄 Research & Publications
+##  Research & Publications
 
 **Predicting Phishing Attacks Using NLP and User Behavioral Indicators** · *December 2025*
 > Hybrid ML framework combining NLP-based content analysis with behavioral data (link-click frequency, response time, prior exposure) for proactive phishing detection, including zero-day attacks.
@@ -46,7 +46,7 @@ I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Found
 
 ---
 
-## 🧰 Skills & Tools
+##  Skills & Tools
 
 **Languages**
 
@@ -74,7 +74,7 @@ I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Found
 
 ---
 
-## 🏆 Honors & Awards
+##  Honors & Awards
 
 - 🥇 **Gold Medal** — Highest CGPA / First Position, BSSE Fall 2021 Batch, Foundation University Islamabad (2025)
 - 🏅 **Distinction Certificate** — Outstanding Academic Performance, Foundation University Islamabad (2025)
@@ -82,7 +82,7 @@ I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Found
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -112,7 +112,7 @@ I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Found
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-suffian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
