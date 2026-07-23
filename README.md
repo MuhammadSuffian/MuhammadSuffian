@@ -21,7 +21,7 @@ I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Found
 
 ---
 
-##  Flagship Project — IESA
+##  Flagship Project — IESA 
 
 **Intelligent Energy Scenario Analysis** · [Live on Streamlit](https://iesa-intelligent-energy-scenario-analysis-live-nkfuuzjjkmpmjcj.streamlit.app/)
 
