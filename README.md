@@ -15,7 +15,7 @@ I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Found
 -  Published researcher in phishing detection using NLP & behavioral modeling
 -  Building intelligent systems at the intersection of **LLMs and decision support**
 -  2+ years of Android development experience — apps with **1M+ downloads**
--  3 years as a Teaching Assistant (OOP & DSA Labs)
+-  ~3 years as a Teaching Assistant (OOP & DSA Labs)
 -  Actively pursuing **MS/PhD research opportunities** in AI abroad
 -  Reach me at **muhammad.suffian.5959@gmail.com**
 
