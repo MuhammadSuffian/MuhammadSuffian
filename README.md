@@ -85,17 +85,11 @@ I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Found
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsuffian&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-yourname.vercel.app/api?username=muhammadsuffian&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsuffian&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/muhammadsuffian">
-    <img src="https://streak-stats.demolab.com/?user=muhammadsuffian&hide_border=true&ring=1d9e75&fire=0f6e56&currStreakLabel=0f6e56" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=muhammadsuffian&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
