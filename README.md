@@ -84,13 +84,21 @@ I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Found
 
 ## GitHub Stats
 
+lets change "##  GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-yourname.vercel.app/api?username=muhammadsuffian&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadsuffian&theme=github_dark)
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=muhammadsuffian&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadsuffian&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadsuffian&theme=github_dark)
 </div>
+<div align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadsuffian&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadsuffian&theme=github_dark&utcOffset=5)
+</div>
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadsuffian&hide_border=true&ring=1d9e75&fire=0f6e56&currStreakLabel=0f6e56)](https://github.com/muhammadsuffian)
+</div>" as current offen show as pic
 
 ---
 
