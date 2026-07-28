@@ -76,9 +76,9 @@ I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Found
 
 ##  Honors & Awards
 
-- 🥇 **Gold Medal** — Highest CGPA / First Position, BSSE Fall 2021 Batch, Foundation University Islamabad (2025)
-- 🏅 **Distinction Certificate** — Outstanding Academic Performance, Foundation University Islamabad (2025)
-- 🎓 **Merit-Based Scholarship Holder**, Foundation University Islamabad
+- 🥇 **Gold Medal** — Highest CGPA / First Position, BSSE Fall 2021 Batch, Foundation University Islamabad (2025).
+- 🏅 **Distinction Certificate** — Outstanding Academic Performance, Foundation University Islamabad (2025).
+- 🎓 **Merit-Based Scholarship Holder**, Foundation University Islamabad.
 
 ---
 
