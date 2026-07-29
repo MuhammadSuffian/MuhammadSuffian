@@ -8,31 +8,20 @@
 
 ---
 
-## 👋 **About Me**
+## 👋 About Me
 
-I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Foundation University Islamabad. </br>
+I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Foundation University Islamabad, with a strong foundation in **Machine Learning, Deep Learning, LLMs, NLP, and Android Development**.
 
-I build intelligent systems at the intersection of **LLMs, NLP, and decision support**.
-
-**I work in 3 areas:**
-
-**1. LLM-driven decision support systems** that combine rule mining with contextual language models.<br>
-**2. NLP & behavioral modeling** for security applications like phishing detection.<br>
-**3. Android development** — shipping apps with 1M+ downloads.<br>
-
-Beyond building, **I've spent ~3 years as a Teaching Assistant** for OOP & DSA labs, and I'm actively pursuing **MS/PhD research opportunities** in AI abroad.
+-  Published researcher in phishing detection using NLP & behavioral modeling.
+-  Building intelligent systems at the intersection of **LLMs and decision support**.
+-  2+ years of Android development experience — apps with **1M+ downloads**.
+-  ~3 years as a Teaching Assistant (OOP & DSA Labs).
+-  Actively pursuing **MS/PhD research opportunities** in AI abroad.
+-  Reach me at **muhammad.suffian.5959@gmail.com**.
 
 ---
 
-## 🏆 **Honors & Awards**
-
-<img src="https://img.shields.io/badge/🥇_Gold_Medal-Highest_CGPA%2C_BSSE_Fall_2021_Batch-e11d48?style=for-the-badge&labelColor=1e293b" /> &nbsp; **Foundation University Islamabad (2025)** <br><br>
-<img src="https://img.shields.io/badge/🏅_Distinction_Certificate-Outstanding_Academic_Performance-f59e0b?style=for-the-badge&labelColor=1e293b" /> &nbsp; **Foundation University Islamabad (2025)** <br><br>
-<img src="https://img.shields.io/badge/🎓_Merit--Based_Scholarship_Holder-Foundation_University_Islamabad-3b82f6?style=for-the-badge&labelColor=1e293b" /> <br><br>
-
----
-
-## 🚀 **Flagship Project — IESA**
+##  Flagship Project — IESA 
 
 **Intelligent Energy Scenario Analysis** · [Live on Streamlit](https://iesa-intelligent-energy-scenario-analysis-live-nkfuuzjjkmpmjcj.streamlit.app/)
 
@@ -47,7 +36,7 @@ Beyond building, **I've spent ~3 years as a Teaching Assistant** for OOP & DSA l
 
 ---
 
-## 📚 **Research & Publications**
+##  Research & Publications
 
 **Predicting Phishing Attacks Using NLP and User Behavioral Indicators** · *December 2025*
 > Hybrid ML framework combining NLP-based content analysis with behavioral data (link-click frequency, response time, prior exposure) for proactive phishing detection, including zero-day attacks.
@@ -57,100 +46,78 @@ Beyond building, **I've spent ~3 years as a Teaching Assistant** for OOP & DSA l
 
 ---
 
-## 💼 **What I Build**
+##  Skills & Tools
 
-```
-🧠 LLM Applications        → Decision-support systems combining LLMs with rule mining
+**Languages**
 
-🔧 Backend & Data          → Python, Scikit-learn, Supabase, MySQL
+![Python](https://img.shields.io/badge/Python-085041?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-085041?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-085041?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-085041?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-085041?style=flat&logo=mysql&logoColor=white)
 
-📱 Android Development     → Production apps with 1M+ downloads
-```
+**AI / ML**
 
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow%20Lite-0F6E56?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0F6E56?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0F6E56?style=flat&logo=huggingface&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs%20%2F%20NLP-0F6E56?style=flat&logoColor=white)
 
-## 🛠️ **Tech Stack**
+**Tools & Platforms**
 
-<table align="center">
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kotlin" width="55" height="55" /><br>Kotlin</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>SQL</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" /><br>TensorFlow Lite</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" /><br>Scikit-learn</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=HF&background=FFD21E&color=000&size=55" width="55" height="55" /><br>HuggingFace</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=LLM&background=0F6E56&color=fff&size=55" width="55" height="55" /><br>LLMs / NLP</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=LC&background=1C3C3C&color=fff&size=55" width="55" height="55" /><br>LangChain</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=WR&background=7f00ff&color=fff&size=55" width="55" height="55" /><br>WisRule</td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=android" width="55" height="55" /><br>Android SDK</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55" /><br>Android Studio</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" /><br>Supabase</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" /><br>PostgreSQL</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=Streamlit&background=FF4B4B&color=fff&size=55" width="55" height="55" /><br>Streamlit</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br>Postman</td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=PE&background=7f00ff&color=fff&size=55" width="55" height="55" /><br>Prompt Eng.</td>
-  </tr>
-</table>
+![Android](https://img.shields.io/badge/Android%20SDK-1D9E75?style=flat&logo=android&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1D9E75?style=flat&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1D9E75?style=flat&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1D9E75?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-1D9E75?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1D9E75?style=flat&logo=figma&logoColor=white)
 
 ---
 
-## 📊 **GitHub Stats**
+##  Honors & Awards
+
+- 🥇 **Gold Medal** — Highest CGPA / First Position, BSSE Fall 2021 Batch, Foundation University Islamabad (2025).
+- 🏅 **Distinction Certificate** — Outstanding Academic Performance, Foundation University Islamabad (2025).
+- 🎓 **Merit-Based Scholarship Holder**, Foundation University Islamabad.
+
+---
+
+##  GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadsuffian&theme=github_dark" width="49%" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadsuffian&theme=github_dark)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadsuffian&theme=github_dark" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadsuffian&theme=github_dark" width="40%" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadsuffian&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadsuffian&theme=github_dark)
 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=muhammadsuffian&hide_border=true&ring=1d9e75&fire=0f6e56&currStreakLabel=0f6e56" width="70%" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadsuffian&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadsuffian&theme=github_dark&utcOffset=5)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadsuffian&hide_border=true&ring=1d9e75&fire=0f6e56&currStreakLabel=0f6e56)](https://github.com/muhammadsuffian)
+
 </div>
 
 ---
 
-## 🌐 **Connect With Me**
+##  Connect
 
-<div align="center">
-
-<a href="https://linkedin.com/in/muhammad-suffian" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;&nbsp;
-
-<a href="mailto:muhammad.suffian.5959@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>&nbsp;&nbsp;
-
-<a href="https://instagram.com/m.suffian_2003" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>&nbsp;&nbsp;
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadsuffian&color=58A6FF&style=flat-square&label=Profile+Views)
-
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad-suffian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:muhammad.suffian.5959@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/m.suffian_2003" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+</p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0f6e56,1d9e75&height=100&section=footer)
