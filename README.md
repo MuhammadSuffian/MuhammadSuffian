@@ -1,123 +1,160 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0f6e56,1d9e75&height=200&section=header&text=Muhammad%20Suffian%20Tafoor&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=ML%20%2F%20AI%20Engineer%20%E2%80%A2%20Android%20Developer%20%E2%80%A2%20Published%20Researcher&descAlignY=58&descSize=15)
-
-<img src="https://komarev.com/ghpvc/?username=muhammadsuffian&label=Profile%20views&color=1d9e75&style=flat" alt="Profile views" />
+  <img src="./profile.svg" alt="Profile Banner" width="100%" />
 
 </div>
 
 ---
 
-## 👋 About Me
+##  **About Me**
 
-I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Foundation University Islamabad, with a strong foundation in **Machine Learning, Deep Learning, LLMs, NLP, and Android Development**.
+I'm an **AI Engineer** and **Computer Science Senior** at The University of Lahore with a **3.93 CGPA**. </br>
 
--  Published researcher in phishing detection using NLP & behavioral modeling.
--  Building intelligent systems at the intersection of **LLMs and decision support**.
--  2+ years of Android development experience — apps with **1M+ downloads**.
--  ~3 years as a Teaching Assistant (OOP & DSA Labs).
--  Actively pursuing **MS/PhD research opportunities** in AI abroad.
--  Reach me at **muhammad.suffian.5959@gmail.com**.
+I build production-level LLM applications and design the AI System architecture for them.
 
----
+**I work in 3 areas:**
 
-##  Flagship Project — IESA 
+**1. RAG pipelines** that ground LLM answers in a company's own documents.<br>
+**2. Multi-Agents System** that plan and execute multi-step tasks without a human guiding every action.<br>
+**3. The deployment** layer that gets both of those running live in production.<br>
 
-**Intelligent Energy Scenario Analysis** · [Live on Streamlit](https://iesa-intelligent-energy-scenario-analysis-live-nkfuuzjjkmpmjcj.streamlit.app/)
-
-> An AI-driven decision support system for energy planning and scenario analysis.
-
-- Implements **WisRule** — a cognitive association rule mining algorithm for energy pattern detection
-- Integrates contextually locked **LLMs** and **regression models** for forecasting and insights
-- Built a **32-bit prime-based custom hashing algorithm** for efficient data handling
-- Interactive **Streamlit UI** with Supabase/PostgREST backend for real-time data input and visualization
-
-`Python` `Scikit-learn` `Transformers` `WisRule` `Streamlit` `Supabase` `MySQL`
+Beyond building, **I voluntarily teach DSA, Gen AI and Agentic AI** through bootcamps and mentoring sessions, helping unprivileged students level up their problem-solving skills.
 
 ---
 
-##  Research & Publications
-
-**Predicting Phishing Attacks Using NLP and User Behavioral Indicators** · *December 2025*
-> Hybrid ML framework combining NLP-based content analysis with behavioral data (link-click frequency, response time, prior exposure) for proactive phishing detection, including zero-day attacks.
-
-**Wisdom Mining in Energy Decision Support** · *In Progress*
-> AI-driven DSS using the WisRule wisdom mining algorithm for adaptive, context-aware energy usage optimization — evaluated against traditional associative rule mining approaches.
-
----
-
-##  Skills & Tools
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-085041?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-085041?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-085041?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-085041?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-085041?style=flat&logo=mysql&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow%20Lite-0F6E56?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0F6E56?style=flat&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0F6E56?style=flat&logo=huggingface&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs%20%2F%20NLP-0F6E56?style=flat&logoColor=white)
-
-**Tools & Platforms**
-
-![Android](https://img.shields.io/badge/Android%20SDK-1D9E75?style=flat&logo=android&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-1D9E75?style=flat&logo=streamlit&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-1D9E75?style=flat&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1D9E75?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-1D9E75?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1D9E75?style=flat&logo=figma&logoColor=white)
+## 🏆 **Achievements**
+<img src="https://img.shields.io/badge/🧩_CS50x_Puzzle_Day_Winner-Harvard_University-e11d48?style=for-the-badge&labelColor=1e293b" /> <br><br>
+<img src="https://img.shields.io/badge/🥉_Global_Rank_%233-MIT_Informatics_Competition-f59e0b?style=for-the-badge&labelColor=1e293b" /> &nbsp; **Out of 270+ Teams Worldwide** <br><br>
+<img src="https://img.shields.io/badge/🏆_Global_Rank_10th-CodeSprint_2026_@_UCLA-3b82f6?style=for-the-badge&labelColor=1e293b" /> &nbsp; **Out of 330 Teams** <br><br>
+<img src="https://img.shields.io/badge/💻_9%2F10_Problems_Solved-Yale_X_BlueQubit_Hackathon-10b981?style=for-the-badge&labelColor=1e293b" /> <br><br>
+<img src="https://img.shields.io/badge/📈_Rank_127-HackerRank_Orchestrate_May_2026-8b5cf6?style=for-the-badge&labelColor=1e293b" /> &nbsp; **Out of 12,885 Participants** <br><br>
+<img src="https://img.shields.io/badge/🧱_Bronze_Brick-CALICO_@_UC_Berkeley-ef4444?style=for-the-badge&labelColor=1e293b" /> &nbsp; **National Level** <br><br>
+<img src="https://img.shields.io/badge/🇵🇰_Top_1%25_in_Pakistan-Advent_of_Code_2025-10b981?style=for-the-badge&labelColor=1e293b" /> <br><br>
+<img src="https://img.shields.io/badge/🧠_300%2B_Problems_Solved-LeetCode_%26_GeeksforGeeks-f59e0b?style=for-the-badge&labelColor=1e293b" /> <br><br>
+<img src="https://img.shields.io/badge/🔥_300%2B_Days_Streak-GitHub_Contributions-ef4444?style=for-the-badge&labelColor=1e293b" /> <br><br>
 
 ---
 
-##  Honors & Awards
+## 💼 **What I Build**
 
-- 🥇 **Gold Medal** — Highest CGPA / First Position, BSSE Fall 2021 Batch, Foundation University Islamabad (2025).
-- 🏅 **Distinction Certificate** — Outstanding Academic Performance, Foundation University Islamabad (2025).
-- 🎓 **Merit-Based Scholarship Holder**, Foundation University Islamabad.
+```
+🤖 LLM Applications        → Production-ready AI systems with OpenAI
+
+🔧 Backend Architecture    → Python, Databases, MySQL, Docker
+
+☁️  Cloud Infrastructure   → AWS services, containerization, deployment workflows
+```
 
 ---
 
-##  GitHub Stats
+## 🛠️ **Tech Stack**
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=powershell" width="55" height="55" /><br>PowerShell</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="55" height="55" /><br>NumPy</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="55" height="55" /><br>Pandas</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="55" height="55" /><br>Matplotlib</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=Sb&background=4E7CA6&color=fff&size=55" width="55" height="55" /><br>Seaborn</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" /><br>Scikit Learn</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" /><br>PyTorch</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=OpenAI&background=412991&color=fff&size=55" width="55" height="55" /><br>OpenAI</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=LC&background=1C3C3C&color=fff&size=55" width="55" height="55" /><br>LangChain</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=LG&background=1C3C3C&color=fff&size=55" width="55" height="55" /><br>LangGraph</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=RAG&background=0D8ABC&color=fff&size=55" width="55" height="55" /><br>RAG</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=FT&background=FF5722&color=fff&size=55" width="55" height="55" /><br>FineTuning</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=PE&background=7f00ff&color=fff&size=55" width="55" height="55" /><br>PromptEng.</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" /><br>FastAPI</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" /><br>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" /><br>Supabase</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=MCP&background=000&color=fff&size=55" width="55" height="55" /><br>MCP</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=Copilot&background=000&color=fff&size=55" width="55" height="55" /><br>Copilot</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=discord" width="55" height="55" /><br>Discord</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=Meta&background=0467DF&color=fff&size=55" width="55" height="55" /><br>Meta</td>
+  </tr>
+</table>
+
+---
+
+## 📊 **GitHub Stats**
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadsuffian&theme=github_dark)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mr-ahtashamulhaq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mr-ahtashamulhaq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 
 </div>
 
 <div align="center">
+<img src="https://github-readme-streak-stats-ebon-two.vercel.app/?user=mr-ahtashamulhaq&theme=tokyonight&hide_border=true" width="70%" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadsuffian&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadsuffian&theme=github_dark)
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadsuffian&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadsuffian&theme=github_dark&utcOffset=5)
 
 </div>
 
+---
+## 📈 **DSA**
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadsuffian&hide_border=true&ring=1d9e75&fire=0f6e56&currStreakLabel=0f6e56)](https://github.com/muhammadsuffian)
+| Platform | Solved | Profile |
+|----------|--------|---------|
+| 💻 **LeetCode** | 200+ | <a href="https://leetcode.com/u/mr-ahtashamulhaq/" onclick="window.open(this.href); return false;" rel="noopener noreferrer">@mr-ahtashamulhaq</a> |
+| 🔶 **GeeksforGeeks** | 150+ | <a href="https://www.geeksforgeeks.org/profile/ahtashamulhaq" onclick="window.open(this.href); return false;" rel="noopener noreferrer">@mr-ahtashamulhaq</a> |
+| 🎯 **Total Problems** | **350+** | <a href="https://codolio.com/profile/mr.ahtashamulhaq" onclick="window.open(this.href); return false;" rel="noopener noreferrer">All Profiles</a> |
 
 </div>
 
 ---
 
-##  Connect
+## 🎓 **Volunteer Teaching & Mentoring**
 
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-suffian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:muhammad.suffian.5959@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/m.suffian_2003" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-</p>
+**1. 🤖 Agentic AI Instructor** @ *DigiTech Transformation*<br>
+Volunteered to teach LLM APIs, RAG pipelines, and LangGraph agents to underprivileged students. Guided 40+ participants per session through hands-on code deployments and custom lab notebooks.<br><br>
+**2. 💻 Advanced DSA Instructor** @ *iCodeGuru*<br>
+Moderated and instructed a free, 6-week intensive Data Structures & Algorithms bootcamp. Dedicated to teaching advanced LeetCode problem-solving to unprivileged students.<br><br>
+**3. 🧠 Generative AI Mentor** @ *Pak Angels*<br>
+Mentored 2 Generative AI cohorts across a 6-month period. Guided students through LLM model selection, API integrations, and supported teams from ideation to final hackathon prototypes.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0f6e56,1d9e75&height=100&section=footer)
+---
+
+## 🌐 **Connect With Me**
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mr-ahtasham-ul-haq/" onclick="window.open(this.href); return false;" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/mr-ahtashamulhaq/" onclick="window.open(this.href); return false;" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+</a>&nbsp;&nbsp;
+
+<a href="mailto:mr.ahtashamulhaq@gmail.com" onclick="window.open(this.href); return false;" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>&nbsp;&nbsp;
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mr-ahtashamulhaq&color=58A6FF&style=flat-square&label=Profile+Views)
+
+</div>
