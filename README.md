@@ -106,7 +106,7 @@ I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Found
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadsuffian&hide_border=true&ring=1d9e75&fire=0f6e56&currStreakLabel=0f6e56)](https://github.com/muhammadsuffian)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MuhammadSuffian)](https://git.io/streak-stats)
 
 </div>
 
