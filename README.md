@@ -1,48 +1,70 @@
 <div align="center">
 
-  <img src="./profile.svg" alt="Profile Banner" width="100%" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0f6e56,1d9e75&height=200&section=header&text=Muhammad%20Suffian%20Tafoor&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=ML%20%2F%20AI%20Engineer%20%E2%80%A2%20Android%20Developer%20%E2%80%A2%20Published%20Researcher&descAlignY=58&descSize=15)
+
+<img src="https://komarev.com/ghpvc/?username=muhammadsuffian&label=Profile%20views&color=1d9e75&style=flat" alt="Profile views" />
 
 </div>
 
 ---
 
-##  **About Me**
+## 👋 **About Me**
 
-I'm an **AI Engineer** and **Computer Science Senior** at The University of Lahore with a **3.93 CGPA**. </br>
+I'm a **Software Engineering graduate (Gold Medalist, GPA 3.83/4.0)** from Foundation University Islamabad. </br>
 
-I build production-level LLM applications and design the AI System architecture for them.
+I build intelligent systems at the intersection of **LLMs, NLP, and decision support**.
 
 **I work in 3 areas:**
 
-**1. RAG pipelines** that ground LLM answers in a company's own documents.<br>
-**2. Multi-Agents System** that plan and execute multi-step tasks without a human guiding every action.<br>
-**3. The deployment** layer that gets both of those running live in production.<br>
+**1. LLM-driven decision support systems** that combine rule mining with contextual language models.<br>
+**2. NLP & behavioral modeling** for security applications like phishing detection.<br>
+**3. Android development** — shipping apps with 1M+ downloads.<br>
 
-Beyond building, **I voluntarily teach DSA, Gen AI and Agentic AI** through bootcamps and mentoring sessions, helping unprivileged students level up their problem-solving skills.
+Beyond building, **I've spent ~3 years as a Teaching Assistant** for OOP & DSA labs, and I'm actively pursuing **MS/PhD research opportunities** in AI abroad.
 
 ---
 
-## 🏆 **Achievements**
-<img src="https://img.shields.io/badge/🧩_CS50x_Puzzle_Day_Winner-Harvard_University-e11d48?style=for-the-badge&labelColor=1e293b" /> <br><br>
-<img src="https://img.shields.io/badge/🥉_Global_Rank_%233-MIT_Informatics_Competition-f59e0b?style=for-the-badge&labelColor=1e293b" /> &nbsp; **Out of 270+ Teams Worldwide** <br><br>
-<img src="https://img.shields.io/badge/🏆_Global_Rank_10th-CodeSprint_2026_@_UCLA-3b82f6?style=for-the-badge&labelColor=1e293b" /> &nbsp; **Out of 330 Teams** <br><br>
-<img src="https://img.shields.io/badge/💻_9%2F10_Problems_Solved-Yale_X_BlueQubit_Hackathon-10b981?style=for-the-badge&labelColor=1e293b" /> <br><br>
-<img src="https://img.shields.io/badge/📈_Rank_127-HackerRank_Orchestrate_May_2026-8b5cf6?style=for-the-badge&labelColor=1e293b" /> &nbsp; **Out of 12,885 Participants** <br><br>
-<img src="https://img.shields.io/badge/🧱_Bronze_Brick-CALICO_@_UC_Berkeley-ef4444?style=for-the-badge&labelColor=1e293b" /> &nbsp; **National Level** <br><br>
-<img src="https://img.shields.io/badge/🇵🇰_Top_1%25_in_Pakistan-Advent_of_Code_2025-10b981?style=for-the-badge&labelColor=1e293b" /> <br><br>
-<img src="https://img.shields.io/badge/🧠_300%2B_Problems_Solved-LeetCode_%26_GeeksforGeeks-f59e0b?style=for-the-badge&labelColor=1e293b" /> <br><br>
-<img src="https://img.shields.io/badge/🔥_300%2B_Days_Streak-GitHub_Contributions-ef4444?style=for-the-badge&labelColor=1e293b" /> <br><br>
+## 🏆 **Honors & Awards**
+
+<img src="https://img.shields.io/badge/🥇_Gold_Medal-Highest_CGPA%2C_BSSE_Fall_2021_Batch-e11d48?style=for-the-badge&labelColor=1e293b" /> &nbsp; **Foundation University Islamabad (2025)** <br><br>
+<img src="https://img.shields.io/badge/🏅_Distinction_Certificate-Outstanding_Academic_Performance-f59e0b?style=for-the-badge&labelColor=1e293b" /> &nbsp; **Foundation University Islamabad (2025)** <br><br>
+<img src="https://img.shields.io/badge/🎓_Merit--Based_Scholarship_Holder-Foundation_University_Islamabad-3b82f6?style=for-the-badge&labelColor=1e293b" /> <br><br>
+
+---
+
+## 🚀 **Flagship Project — IESA**
+
+**Intelligent Energy Scenario Analysis** · [Live on Streamlit](https://iesa-intelligent-energy-scenario-analysis-live-nkfuuzjjkmpmjcj.streamlit.app/)
+
+> An AI-driven decision support system for energy planning and scenario analysis.
+
+- Implements **WisRule** — a cognitive association rule mining algorithm for energy pattern detection
+- Integrates contextually locked **LLMs** and **regression models** for forecasting and insights
+- Built a **32-bit prime-based custom hashing algorithm** for efficient data handling
+- Interactive **Streamlit UI** with Supabase/PostgREST backend for real-time data input and visualization
+
+`Python` `Scikit-learn` `Transformers` `WisRule` `Streamlit` `Supabase` `MySQL`
+
+---
+
+## 📚 **Research & Publications**
+
+**Predicting Phishing Attacks Using NLP and User Behavioral Indicators** · *December 2025*
+> Hybrid ML framework combining NLP-based content analysis with behavioral data (link-click frequency, response time, prior exposure) for proactive phishing detection, including zero-day attacks.
+
+**Wisdom Mining in Energy Decision Support** · *In Progress*
+> AI-driven DSS using the WisRule wisdom mining algorithm for adaptive, context-aware energy usage optimization — evaluated against traditional associative rule mining approaches.
 
 ---
 
 ## 💼 **What I Build**
 
 ```
-🤖 LLM Applications        → Production-ready AI systems with OpenAI
+🧠 LLM Applications        → Decision-support systems combining LLMs with rule mining
 
-🔧 Backend Architecture    → Python, Databases, MySQL, Docker
+🔧 Backend & Data          → Python, Scikit-learn, Supabase, MySQL
 
-☁️  Cloud Infrastructure   → AWS services, containerization, deployment workflows
+📱 Android Development     → Production apps with 1M+ downloads
 ```
 
 ---
@@ -52,43 +74,35 @@ Beyond building, **I voluntarily teach DSA, Gen AI and Agentic AI** through boot
 <table align="center">
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kotlin" width="55" height="55" /><br>Kotlin</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=powershell" width="55" height="55" /><br>PowerShell</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>SQL</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="55" height="55" /><br>NumPy</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="55" height="55" /><br>Pandas</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="55" height="55" /><br>Matplotlib</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=Sb&background=4E7CA6&color=fff&size=55" width="55" height="55" /><br>Seaborn</td>
-    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" /><br>Scikit Learn</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" /><br>PyTorch</td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=OpenAI&background=412991&color=fff&size=55" width="55" height="55" /><br>OpenAI</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" /><br>TensorFlow Lite</td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" /><br>Scikit-learn</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=HF&background=FFD21E&color=000&size=55" width="55" height="55" /><br>HuggingFace</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=LLM&background=0F6E56&color=fff&size=55" width="55" height="55" /><br>LLMs / NLP</td>
     <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=LC&background=1C3C3C&color=fff&size=55" width="55" height="55" /><br>LangChain</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=LG&background=1C3C3C&color=fff&size=55" width="55" height="55" /><br>LangGraph</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=RAG&background=0D8ABC&color=fff&size=55" width="55" height="55" /><br>RAG</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=FT&background=FF5722&color=fff&size=55" width="55" height="55" /><br>FineTuning</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=PE&background=7f00ff&color=fff&size=55" width="55" height="55" /><br>PromptEng.</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=WR&background=7f00ff&color=fff&size=55" width="55" height="55" /><br>WisRule</td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" /><br>FastAPI</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" /><br>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=android" width="55" height="55" /><br>Android SDK</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55" /><br>Android Studio</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" /><br>Supabase</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" /><br>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=Streamlit&background=FF4B4B&color=fff&size=55" width="55" height="55" /><br>Streamlit</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br>Postman</td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=MCP&background=000&color=fff&size=55" width="55" height="55" /><br>MCP</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=Copilot&background=000&color=fff&size=55" width="55" height="55" /><br>Copilot</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=discord" width="55" height="55" /><br>Discord</td>
-    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=Meta&background=0467DF&color=fff&size=55" width="55" height="55" /><br>Meta</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
+    <td align="center" width="90"><img src="https://ui-avatars.com/api/?name=PE&background=7f00ff&color=fff&size=55" width="55" height="55" /><br>Prompt Eng.</td>
   </tr>
 </table>
 
@@ -98,63 +112,45 @@ Beyond building, **I voluntarily teach DSA, Gen AI and Agentic AI** through boot
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mr-ahtashamulhaq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mr-ahtashamulhaq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadsuffian&theme=github_dark" width="49%" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats-ebon-two.vercel.app/?user=mr-ahtashamulhaq&theme=tokyonight&hide_border=true" width="70%" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadsuffian&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadsuffian&theme=github_dark" width="40%" />
 
 </div>
 
----
-## 📈 **DSA**
 <div align="center">
-
-| Platform | Solved | Profile |
-|----------|--------|---------|
-| 💻 **LeetCode** | 200+ | <a href="https://leetcode.com/u/mr-ahtashamulhaq/" onclick="window.open(this.href); return false;" rel="noopener noreferrer">@mr-ahtashamulhaq</a> |
-| 🔶 **GeeksforGeeks** | 150+ | <a href="https://www.geeksforgeeks.org/profile/ahtashamulhaq" onclick="window.open(this.href); return false;" rel="noopener noreferrer">@mr-ahtashamulhaq</a> |
-| 🎯 **Total Problems** | **350+** | <a href="https://codolio.com/profile/mr.ahtashamulhaq" onclick="window.open(this.href); return false;" rel="noopener noreferrer">All Profiles</a> |
-
+<img src="https://streak-stats.demolab.com/?user=muhammadsuffian&hide_border=true&ring=1d9e75&fire=0f6e56&currStreakLabel=0f6e56" width="70%" />
 </div>
-
----
-
-## 🎓 **Volunteer Teaching & Mentoring**
-
-**1. 🤖 Agentic AI Instructor** @ *DigiTech Transformation*<br>
-Volunteered to teach LLM APIs, RAG pipelines, and LangGraph agents to underprivileged students. Guided 40+ participants per session through hands-on code deployments and custom lab notebooks.<br><br>
-**2. 💻 Advanced DSA Instructor** @ *iCodeGuru*<br>
-Moderated and instructed a free, 6-week intensive Data Structures & Algorithms bootcamp. Dedicated to teaching advanced LeetCode problem-solving to unprivileged students.<br><br>
-**3. 🧠 Generative AI Mentor** @ *Pak Angels*<br>
-Mentored 2 Generative AI cohorts across a 6-month period. Guided students through LLM model selection, API integrations, and supported teams from ideation to final hackathon prototypes.
 
 ---
 
 ## 🌐 **Connect With Me**
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mr-ahtasham-ul-haq/" onclick="window.open(this.href); return false;" rel="noopener noreferrer">
+<a href="https://linkedin.com/in/muhammad-suffian" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/mr-ahtashamulhaq/" onclick="window.open(this.href); return false;" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
-</a>&nbsp;&nbsp;
-
-<a href="mailto:mr.ahtashamulhaq@gmail.com" onclick="window.open(this.href); return false;" rel="noopener noreferrer">
+<a href="mailto:muhammad.suffian.5959@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>&nbsp;&nbsp;
 
-</div>
+<a href="https://instagram.com/m.suffian_2003" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>&nbsp;&nbsp;
 
----
+</div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mr-ahtashamulhaq&color=58A6FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadsuffian&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0f6e56,1d9e75&height=100&section=footer)
